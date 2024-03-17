@@ -1,0 +1,22 @@
+.top-view-background-container {
+  height: 40vh;
+  background-image: url('https://assets.ccbp.in/frontend/react-js/music-playlist/music-playlist-Edsheeran-bg.png');
+  background-size: cover;
+  padding: 40px;
+  padding-bottom: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: flex-start;
+  line-height: 0;
+}
+.heading-text-top-view {
+  font-family: 'Roboto';
+  font-size: 46px;
+  color: #ffffff;
+}
+.para-text-top-view{
+  font-family: "Roboto";
+  font-size: 32px;
+  color: #cbd5e1;
+}

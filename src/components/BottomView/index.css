@@ -1,0 +1,69 @@
+.bottom-view-background-container {
+  background-color: #152850;
+  padding: 30px;
+  height: 60vh;
+}
+.top-text-container-bottom-view {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.songs-text-bottom-view {
+  font-family: 'Roboto';
+  font-size: 36px;
+  color: #ffffff;
+}
+.input-container {
+  background-color: transparent;
+  border: 1px solid #ffffff;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  padding-right: 10px;
+}
+.input-element {
+  height: 40px;
+  width: 280px;
+  background-color: transparent;
+  border: none;
+  outline: none;
+  padding: 10px;
+  font-family: 'Roboto';
+  font-size: 18px;
+  color: #ffffff;
+}
+.search-icon {
+  font-size: 20px;
+  color: #ffffff;
+}
+.buttn-search {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
+.item-container-bottom-view {
+  padding: 0px;
+  overflow: auto;
+  height: 45vh;
+  width: 100%;
+}
+.list-container {
+  padding: 0px;
+  overflow: auto;
+  width: 100%;
+}
+.no-songs-fond-text {
+  font-family: 'Roboto';
+  font-size: 42px;
+  color: #ffffff;
+  font-weight: 600;
+  
+  
+}
+.no-songs-found-container{
+  height: 45vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
